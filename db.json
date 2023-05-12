@@ -1,0 +1,38 @@
+{
+  "products": [
+    {
+      "name": "Iphone 11 promax",
+      "categories": "Điện thoại iphone",
+      "description": "ssss o sss",
+      "image": "https://res.cloudinary.com/dv3vzmogk/image/upload/v1666142435/anhhtus/%C4%90%E1%BB%81%20thi/macbook_256_ousklt.png",
+      "price": "100000088",
+      "id": 1
+    },
+    {
+      "name": "23",
+      "categories": "323",
+      "price": "3232",
+      "image": "https://res.cloudinary.com/dv3vzmogk/image/upload/v1666142435/anhhtus/%C4%90%E1%BB%81%20thi/macbook_256_ousklt.png",
+      "description": "23",
+      "id": 4
+    },
+    {
+      "name": "samsung",
+      "categori": "samsung a4",
+      "mota": "day la dien thoai samsung",
+      "image": "https://res.cloudinary.com/dv3vzmogk/image/upload/v1666142438/anhhtus/%C4%90%E1%BB%81%20thi/3_225_c6ncpa.jpg",
+      "price": "6000",
+      "id": 7,
+      "categories": "hihi",
+      "description": "gkg"
+    },
+    {
+      "name": "samsugnng",
+      "categories": "samsung a3",
+      "description": "day la dien thoai samsung",
+      "image": "https://res.cloudinary.com/dv3vzmogk/image/upload/v1666142435/anhhtus/%C4%90%E1%BB%81%20thi/macbook_256_ousklt.png",
+      "price": "422",
+      "id": 10
+    }
+  ]
+}
